@@ -1,4 +1,4 @@
-<p align="center"><img src="https://wallpaperaccess.com/full/5752005.jpg"</p>
+<p align="center"><img src="https://wallpaperaccess.com/full/4996636.png"</p>
 
 <h3 align="center">Sono un 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 JR.</h3>
 
