@@ -1,6 +1,6 @@
 <p align="center"><img src="https://wallpaperaccess.com/full/4996636.png"</p>
 
-<h3 align="center">Sono un 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 JR.</h3>
+<h3 align="center">Sono un 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</h3>
 
 Sono Cesare Tomasello, studente appassionato di tecnologia e sviluppo web. Attualmente mi sto specializzando come front-end developer attraverso un bootcamp di formazione che mi sta aiutando a padroneggiare le tecnologie React e Next.js.
 
