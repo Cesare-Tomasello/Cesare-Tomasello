@@ -2,9 +2,9 @@
 
 <h3 align="center">Sono un 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</h3>
 
-Sono Cesare Tomasello, studente appassionato di tecnologia e sviluppo web. Attualmente mi sto specializzando come front-end developer attraverso un bootcamp di formazione che mi sta aiutando a padroneggiare le tecnologie React e Next.js.
+Sono Cesare Tomasello, studente appassionato di tecnologia e sviluppo web. Attualmente mi sto specializzando come front-end developer per mezzo di un bootcamp di formazione che mi sta aiutando a padroneggiare le tecnologie React e Next.js.
 
-Mi piace sempre tenere il passo con le ultime tendenze e tecnologie nel mondo del front-end e sono sempre pronto ad imparare e a mettere in pratica nuove conoscenze.
+Mi piace tenere il passo con le ultime tendenze e tecnologie nel mondo del front-end e sono pronto ad imparare e a mettere in pratica conoscenze sempre nuove.
 
 <span>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</span>
 <span>![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</span>
