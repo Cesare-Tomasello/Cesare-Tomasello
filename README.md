@@ -2,7 +2,7 @@
 
 <h3 align="center">Sono un 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</h3>
 
-Sono Cesare Tomasello, studente appassionato di tecnologia e sviluppo web. Attualmente mi sto specializzando come front-end developer per mezzo di un bootcamp di formazione che mi sta aiutando a padroneggiare le tecnologie React e Next.js.
+Sono Cesare Tomasello, studente appassionato di tecnologia e sviluppo web. Ho da poco concluso la mia formazione presso un bootcamp che mi ha aiutato a padroneggiare le tecnologie React.js e Next.js.
 
 Mi piace tenere il passo con le ultime tendenze e tecnologie nel mondo del front-end e sono pronto ad imparare e a mettere in pratica conoscenze sempre nuove.
 
